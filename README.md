@@ -7,6 +7,6 @@ This project aims to simplify the process of fetching and managing multiple RSS 
 ## Features
 
 - Aggregates multiple RSS feeds in one place.
-- Periodically updates and refreshes feed content.
+- Periodically updates and refreshes feed content (every 10 minutes).
 - Provides RESTful API endpoints for client applications to fetch aggregated feed data.
 - Easy-to-use and extendable codebase.
